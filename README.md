@@ -1,8 +1,6 @@
 Multiple PDF Q&A (RAG) Notebook
 ===============================
 
-# My Project Name
-
 [![Python 3.x](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/downloads/)
 ![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
@@ -198,7 +196,3 @@ License
 -------
 
 This project is licensed under the MIT License. See the license file for details (or adapt to whichever license you prefer).
-
-* * * * *
-
-Feel free to modify any sections to fit your specific use case or naming conventions. Enjoy exploring your documents with Qdrant + an LLM!
